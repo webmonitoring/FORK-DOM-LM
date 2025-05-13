@@ -133,3 +133,5 @@ notebooks/experiments/
 data/
 .vscode/
 results/
+
+*.htm
