@@ -1,6 +1,3 @@
-torch==2.5.1
-torchaudio
-torchvision
 accelerate==1.2.1
 transformers==4.48.3
 lxml
