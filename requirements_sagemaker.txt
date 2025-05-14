@@ -1,5 +1,5 @@
 accelerate==1.2.1
-transformers==4.48.3
+transformers==4.50.0
 lxml
 bs4
 lxml[html_clean]
