@@ -1,4 +1,4 @@
-torch==2.5.1
+torch==2.7.0
 torchaudio
 torchvision
 accelerate==1.2.1
